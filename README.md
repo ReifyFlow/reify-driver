@@ -53,5 +53,5 @@ python -m reify_driver apply --config ./hardware_map.json --target stm32f103
 - `generate_code()`
 
 ---
-*Part of the ReifyFlow Ecosystem.*
+*Part of the ReifyFlow.*
 ```
